@@ -1,6 +1,6 @@
 # React Drum Machine 
 
-Originally started from joeshub/react-808. Thanks Joe!
+Originally started from [joeshub/react-808](https://github.com/joeshub/react-808). Thanks Joe!
 
 ## JavaScript based 808 Drum Machine built using React.js and hooks API
 
