@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React 808
 
 ## JavaScript based 808 Drum Machine built using React.js and hooks API
@@ -30,3 +31,8 @@
 * Change Timing signatures
 * Change steps per Bar on grid
 * Showcase user sequences
+=======
+# react-drum-machine
+
+Originally started from joeshub/react-808. Thanks Joe!
+>>>>>>> 0085279a792c14789affe35286fc3abd49a8a90c
