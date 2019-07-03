@@ -1,3 +1,3 @@
 # react-drum-machine
 
-Originally started from 
+Originally started from joeshub/react-808. Thanks Joe!
